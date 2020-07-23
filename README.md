@@ -1,7 +1,7 @@
 # ap-robocode
 
 ## Description
-null
+Robocode project to battle bots given in AP Computer Science
 
 ### Tags
 [Java]
